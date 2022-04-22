@@ -32,7 +32,7 @@ npm install
 ```
 ### PORT Config
 To customise port of backend :  
-1. Create <i>config.env</i> 
+1. Create file <i>config.env</i> 
 2. Initialise a variable named PORT
 3. Assign the port value
 ```
