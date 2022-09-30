@@ -1,4 +1,4 @@
-# TeeCom
+# E-Mart
 
 ### MERN based ecom store with email updates, separate admin routes and much more 
 
